@@ -12,23 +12,19 @@ Here, you'll find a glimpse of my projects. 😊
 ---
 
 ## 🌟 GitHub Stats:
-<div style="text-align: center">
 
 ![Huy's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=huy4403&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
-</div>
 
 ---
 
 ## 🔥 Featured Projects:
-<div style="text-align: center;">
 <a href="https://github.com/huy4403/Spring-Api_Ecommerce-Backend">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=huy4403&repo=Spring-Api_Ecommerce-Backend&theme=radical" />
-      </a>
-      <a href="https://github.com/huy4403/Max30100-Firebase-Android-Application">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=huy4403&repo=Max30100-Firebase-Android-Application&theme=merko" />
-      </a>
-      <a href="https://github.com/huy4403/Ecommerce_HTML-CSS-JS">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=huy4403&repo=Ecommerce_HTML-CSS-JS&theme=gruvbox" />
-      </a>
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=huy4403&repo=Spring-Api_Ecommerce-Backend&theme=radical" />
+</a>
+<a href="https://github.com/huy4403/Max30100-Firebase-Android-Application">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=huy4403&repo=Max30100-Firebase-Android-Application&theme=merko" />
+</a>
+<a href="https://github.com/huy4403/Ecommerce_HTML-CSS-JS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=huy4403&repo=Ecommerce_HTML-CSS-JS&theme=gruvbox" />
+</a>
