@@ -19,8 +19,8 @@ Here, you'll find a glimpse of my projects. 😊
 ---
 
 ## 🔥 Featured Projects:
-<a href="https://github.com/huy4403/Spring-Api_Ecommerce-Backend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=huy4403&repo=Spring-Api_Ecommerce-Backend&theme=radical" />
+<a href="https://github.com/huy4403/Ecommerce-Backend-Spring">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=huy4403&repo=Ecommerce-Backend-Spring&theme=radical" />
 </a>
 <a href="https://github.com/huy4403/Max30100-Firebase-Android-Application">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=huy4403&repo=Max30100-Firebase-Android-Application&theme=merko" />
