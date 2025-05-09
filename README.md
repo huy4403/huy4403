@@ -1,6 +1,6 @@
 # 👋 Welcome to My Page
 
-Hi, I'm **Doan Huy**, a senior student at **Hanoi University of Natural Resources and Environment**.  
+Hi, I'm **Doan Van Huy** graduated from **Hanoi University of Natural Resources and Environment** with distinction.  
 Here, you'll find a glimpse of my projects. 😊  
 
 ---
