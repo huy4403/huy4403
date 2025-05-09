@@ -1,12 +1,11 @@
 # 👋 Welcome to My Page
 
-I'm a **Full-stack Developer** with a degree from **Hanoi University of Natural Resources and Environment**, graduated with distinction.
-I specialize in Java (Spring Boot) for backend development and ReactJS for frontend development. Below, you'll find a glimpse of my projects 😊  
+I am a **Full-stack Developer**, I graduated from **Hanoi University of Natural Resources and Environment** with excellent degree. I specialize in Java (Spring Boot) for backend development and ReactJS for frontend development.
 
 ---
 
 ## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/huy4403/) [![Github](https://img.shields.io/badge/GitHub-%23000000.svg?logo=GitHub&logoColor=white)](https://github.com/huy4403/)[![Email](https://img.shields.io/badge/Email-%23FF6F61.svg?logo=gmail&logoColor=white)](mailto:huy4403nd@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/huy4403/) [![Github](https://img.shields.io/badge/GitHub-%23000000.svg?logo=GitHub&logoColor=white)](https://github.com/huy4403/) [![Email](https://img.shields.io/badge/Email-%23FF6F61.svg?logo=gmail&logoColor=white)](mailto:huy4403nd@gmail.com)
 
 ---
 
