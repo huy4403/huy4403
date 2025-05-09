@@ -22,9 +22,9 @@ Here, you'll find a glimpse of my projects. 😊
 <a href="https://github.com/huy4403/Backend_Ecommerce">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=huy4403&repo=Backend_Ecommerce&theme=radical" />
 </a>
+<a href="https://github.com/huy4403/ecommerce-client">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=huy4403&repo=ecommerce-client&theme=gruvbox" />
+</a>
 <a href="https://github.com/huy4403/Max30100-Firebase-Android-Application">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=huy4403&repo=Max30100-Firebase-Android-Application&theme=merko" />
-</a>
-<a href="https://github.com/huy4403/Ecommerce_HTML-CSS-JS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=huy4403&repo=Ecommerce_HTML-CSS-JS&theme=gruvbox" />
 </a>
